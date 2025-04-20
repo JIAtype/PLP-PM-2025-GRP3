@@ -1,0 +1,1287 @@
+Entity,Label,Avg_Sentiment,Sentiment_Category
+Guy,PER,0.586,Neutral
+Tesla,ORG,0.625,Positive
+Electric Car,ORG,0.567,Neutral
+Mexico,LOC,0.526,Neutral
+Vietnam,LOC,0.582,Neutral
+Nice,ORG,0.958,Very Positive
+America,LOC,0.551,Neutral
+Cali,LOC,0.556,Neutral
+Vinfast,ORG,0.668,Positive
+U. S,LOC,0.57,Neutral
+VinFast,MISC,0.643,Positive
+Chinese,MISC,0.532,Neutral
+Tim,PER,0.725,Positive
+Africa,LOC,0.491,Neutral
+Tesla,MISC,0.598,Neutral
+Te,MISC,0.601,Positive
+Model Y,MISC,0.673,Positive
+Vin,ORG,0.638,Positive
+Western,MISC,0.606,Positive
+Vietnamese,MISC,0.45,Neutral
+Vinfast,MISC,0.544,Neutral
+UK,LOC,0.612,Positive
+States,LOC,0.791,Positive
+Europe,LOC,0.526,Neutral
+Taiwan,LOC,0.405,Neutral
+US,LOC,0.585,Neutral
+Porsche,ORG,0.686,Positive
+Mac,MISC,0.66,Positive
+VW,ORG,0.56,Neutral
+US,MISC,0.61,Positive
+EPA,ORG,0.501,Neutral
+Asian,MISC,0.59,Neutral
+Ford,ORG,0.62,Positive
+Mustang,MISC,0.719,Positive
+Chrysler,ORG,0.662,Positive
+China,LOC,0.536,Neutral
+Ukraine,LOC,0.388,Low
+Earth,LOC,0.603,Positive
+BMW,ORG,0.626,Positive
+Vinfast,PER,0.452,Neutral
+USA,LOC,0.588,Neutral
+Tesla Model 3,MISC,0.624,Positive
+Model 3,MISC,0.652,Positive
+Full,MISC,0.653,Positive
+Charge,MISC,0.707,Positive
+UK,MISC,0.591,Neutral
+North American,MISC,0.624,Positive
+Australia,LOC,0.617,Positive
+Honda,ORG,0.576,Neutral
+Mitsubishi,ORG,0.535,Neutral
+Asia,LOC,0.602,Positive
+American,MISC,0.605,Positive
+Elliot,PER,0.773,Positive
+CCP,ORG,0.466,Neutral
+Vin,PER,0.684,Positive
+French,MISC,0.53,Neutral
+India,LOC,0.435,Neutral
+Ricky,PER,0.738,Positive
+Eric,PER,0.783,Positive
+Germany,LOC,0.577,Neutral
+Ferrari,ORG,0.692,Positive
+Fiat,ORG,0.657,Positive
+FC,ORG,0.66,Positive
+Renault,ORG,0.587,Neutral
+Tesla,PER,0.589,Neutral
+BMW X5,MISC,0.757,Positive
+Toyota,ORG,0.594,Neutral
+Hyundai,ORG,0.532,Neutral
+Italian,MISC,0.609,Positive
+Ontario Canada,LOC,0.617,Positive
+VF,MISC,0.59,Neutral
+Ma,MISC,0.825,Very Positive
+Mu,PER,0.621,Positive
+Vin,MISC,0.543,Neutral
+Japanese,MISC,0.612,Positive
+German,MISC,0.556,Neutral
+Pi,PER,0.574,Neutral
+Italians,MISC,0.563,Neutral
+ICE,MISC,0.578,Neutral
+iPhone,MISC,0.594,Neutral
+Fremont,LOC,0.706,Positive
+California,LOC,0.543,Neutral
+Ricky Roy,PER,0.705,Positive
+ICE,ORG,0.614,Positive
+Te,PER,0.605,Positive
+Cars,MISC,0.547,Neutral
+Ty,ORG,0.6,Neutral
+Jack,PER,0.776,Positive
+Americans,MISC,0.563,Neutral
+Georgia,LOC,0.697,Positive
+European,MISC,0.612,Positive
+EU,ORG,0.569,Neutral
+Full,PER,0.595,Neutral
+Toyota,MISC,0.627,Positive
+AU,MISC,0.561,Neutral
+Sony,ORG,0.672,Positive
+Fully Charged,ORG,0.585,Neutral
+DC,MISC,0.66,Positive
+Bay Area,LOC,0.443,Neutral
+Po,MISC,0.701,Positive
+DOA,ORG,0.473,Neutral
+U. K.,LOC,0.787,Positive
+YouTube,ORG,0.661,Positive
+St,PER,0.539,Neutral
+Japan,LOC,0.564,Neutral
+Singapore,LOC,0.542,Neutral
+Auto,ORG,0.372,Low
+Car,MISC,0.685,Positive
+Lo,PER,0.778,Positive
+Da,PER,0.616,Positive
+FCS,ORG,0.648,Positive
+Ch,MISC,0.663,Positive
+Toyota Corolla,MISC,0.64,Positive
+Android Auto,MISC,0.618,Positive
+United States,LOC,0.746,Positive
+IMHO,ORG,0.641,Positive
+Ta,ORG,0.589,Neutral
+Zoe,MISC,0.659,Positive
+OTA,ORG,0.697,Positive
+XC40,MISC,0.823,Very Positive
+Polestar 2,MISC,0.57,Neutral
+MA,ORG,0.537,Neutral
+Aptera,MISC,0.669,Positive
+South Australia,LOC,0.493,Neutral
+Russian,MISC,0.474,Neutral
+OPEC,ORG,0.533,Neutral
+Russia,LOC,0.461,Neutral
+Te,ORG,0.606,Positive
+F150,MISC,0.51,Neutral
+Michigan,LOC,0.689,Positive
+F1,MISC,0.654,Positive
+Oil,MISC,0.313,Low
+San Diego,LOC,0.673,Positive
+Internet,MISC,0.634,Positive
+BS,MISC,0.488,Neutral
+Montreal,LOC,0.606,Positive
+El,ORG,0.606,Positive
+Los Angeles,LOC,0.534,Neutral
+Telsa,ORG,0.655,Positive
+El,PER,0.6,Neutral
+Powerwall,MISC,0.699,Positive
+Texas,LOC,0.55,Neutral
+East,LOC,0.506,Neutral
+North,LOC,0.554,Neutral
+Musk,ORG,0.599,Neutral
+Dallas,LOC,0.571,Neutral
+AC,MISC,0.573,Neutral
+Pacific,LOC,0.483,Neutral
+Ford Escape,MISC,0.626,Positive
+Edison,ORG,0.389,Low
+EA,ORG,0.636,Positive
+Nikola,PER,0.672,Positive
+Arizona,LOC,0.659,Positive
+Florida,LOC,0.543,Neutral
+YouTube,MISC,0.631,Positive
+South Korea,LOC,0.609,Positive
+Co,ORG,0.649,Positive
+CE,MISC,0.501,Neutral
+Li,MISC,0.645,Positive
+Coal,MISC,0.48,Neutral
+LOL,ORG,0.776,Positive
+Natural Gas,ORG,0.707,Positive
+Coal,ORG,0.805,Very Positive
+Uk,LOC,0.561,Neutral
+Ko,ORG,0.719,Positive
+Netherlands,LOC,0.564,Neutral
+God,PER,0.661,Positive
+Norway,LOC,0.7,Positive
+Big Oil,ORG,0.491,Neutral
+Hawaii,LOC,0.646,Positive
+Ioniq 5,MISC,0.693,Positive
+Ireland,LOC,0.621,Positive
+Nuclear,ORG,0.546,Neutral
+Fully Charged,MISC,0.775,Positive
+Communist,MISC,0.513,Neutral
+Ioniq,MISC,0.736,Positive
+Sydney,LOC,0.692,Positive
+British,MISC,0.555,Neutral
+Wu,PER,0.622,Positive
+Mini,MISC,0.736,Positive
+Lithuania,LOC,0.705,Positive
+Canada,LOC,0.592,Neutral
+Bob,PER,0.699,Positive
+Utah,LOC,0.647,Positive
+Zap,MISC,0.706,Positive
+SEC,ORG,0.345,Low
+London,LOC,0.7,Positive
+West,LOC,0.61,Positive
+South,LOC,0.595,Neutral
+Austria,LOC,0.595,Neutral
+Power,ORG,0.581,Neutral
+Green Energy,ORG,0.756,Positive
+Electric,MISC,0.707,Positive
+Ford Model T,MISC,0.763,Positive
+ZERO,ORG,0.532,Neutral
+Robert,PER,0.689,Positive
+Spain,LOC,0.609,Positive
+Elon,ORG,0.565,Neutral
+Ha,PER,0.577,Neutral
+CA,LOC,0.611,Positive
+TX,LOC,0.481,Neutral
+Green,ORG,0.387,Low
+Zero,MISC,0.665,Positive
+Jim,PER,0.89,Very Positive
+Thailand,LOC,0.644,Positive
+Thai,MISC,0.705,Positive
+Elon Musk,ORG,0.653,Positive
+Full,ORG,0.783,Positive
+Charge,ORG,0.695,Positive
+Bill Gates,PER,0.531,Neutral
+NYC,LOC,0.665,Positive
+LA,LOC,0.492,Neutral
+Chicago,LOC,0.52,Neutral
+Solar,MISC,0.726,Positive
+Canadian,MISC,0.599,Neutral
+Belgium,LOC,0.567,Neutral
+Solar,ORG,0.675,Positive
+Scottish,MISC,0.683,Positive
+Scotland,LOC,0.676,Positive
+BP,ORG,0.593,Neutral
+Phoenix,LOC,0.559,Neutral
+Green New Deal,MISC,0.669,Positive
+Reg,PER,0.738,Positive
+England,LOC,0.597,Neutral
+Uk,MISC,0.573,Neutral
+Walmart,ORG,0.545,Neutral
+Can,PER,0.71,Positive
+Canoo,MISC,0.591,Neutral
+Ka,MISC,0.6,Neutral
+Austin Allegro,MISC,0.605,Positive
+Canoo,ORG,0.613,Positive
+VW,MISC,0.57,Neutral
+Amazon,ORG,0.661,Positive
+FedEx,ORG,0.716,Positive
+UPS,ORG,0.604,Positive
+France,LOC,0.606,Positive
+GM,ORG,0.593,Neutral
+Tony,PER,0.718,Positive
+Apple,ORG,0.638,Positive
+Can,ORG,0.743,Positive
+Amazon,MISC,0.835,Very Positive
+Youtub,MISC,0.572,Neutral
+Paul G,PER,0.609,Positive
+OR,LOC,0.55,Neutral
+Volkswagen,ORG,0.599,Neutral
+Van,MISC,0.619,Positive
+USPS,ORG,0.58,Neutral
+Cy,MISC,0.627,Positive
+BS,ORG,0.514,Neutral
+TD,MISC,0.424,Neutral
+AL,MISC,0.395,Low
+Cit,PER,0.638,Positive
+Prius,MISC,0.705,Positive
+R & D,ORG,0.599,Neutral
+Pennsylvania,LOC,0.696,Positive
+Co,MISC,0.518,Neutral
+Wal - Mart,ORG,0.641,Positive
+RHD,MISC,0.639,Positive
+Britain,LOC,0.532,Neutral
+am,LOC,0.448,Neutral
+Houston,LOC,0.538,Neutral
+NJ,LOC,0.708,Positive
+BMW i3,MISC,0.632,Positive
+UP,ORG,0.68,Positive
+Tri,MISC,0.621,Positive
+New York,LOC,0.621,Positive
+Ohio,LOC,0.604,Positive
+Amazon,LOC,0.714,Positive
+Ke,MISC,0.73,Positive
+NASA,ORG,0.49,Neutral
+Buzz,MISC,0.616,Positive
+United States of America,LOC,0.724,Positive
+Bo,MISC,0.579,Neutral
+Sun,ORG,0.827,Very Positive
+Sub,ORG,0.488,Neutral
+Zero,ORG,0.858,Very Positive
+Black,MISC,0.403,Neutral
+Oklahoma,LOC,0.483,Neutral
+Cal,LOC,0.66,Positive
+Cy,LOC,0.597,Neutral
+Charged,MISC,0.623,Positive
+Detroit,LOC,0.595,Neutral
+Indian,MISC,0.634,Positive
+IMO,ORG,0.7,Positive
+De,MISC,0.503,Neutral
+Joe,PER,0.648,Positive
+Buzz,PER,0.559,Neutral
+Transit,ORG,0.601,Positive
+Sweden,LOC,0.618,Positive
+IMH,ORG,0.775,Positive
+Covid,MISC,0.536,Neutral
+BMW,MISC,0.636,Positive
+Tesla E,MISC,0.601,Positive
+Mercedes,MISC,0.645,Positive
+African,MISC,0.534,Neutral
+Tucson,LOC,0.573,Neutral
+DHL,ORG,0.7,Positive
+Mars,LOC,0.596,Neutral
+Ma,PER,0.433,Neutral
+BT,ORG,0.723,Positive
+MI,ORG,0.609,Positive
+The Boring Company,ORG,0.608,Positive
+Rick,PER,0.612,Positive
+Nissan Leaf,MISC,0.598,Neutral
+Sandy Munro,PER,0.571,Neutral
+Hell,LOC,0.54,Neutral
+Aptera,ORG,0.73,Positive
+Fully Charged Show,MISC,0.522,Neutral
+DC,ORG,0.678,Positive
+Portugal,LOC,0.535,Neutral
+Sun,MISC,0.55,Neutral
+Boston,LOC,0.617,Positive
+Polestar,MISC,0.522,Neutral
+English,MISC,0.659,Positive
+Cadillac,ORG,0.567,Neutral
+Electric,ORG,0.644,Positive
+Semi,MISC,0.6,Neutral
+Diesel,MISC,0.648,Positive
+Australian,MISC,0.51,Neutral
+Switzerland,LOC,0.694,Positive
+Tesla Semi,MISC,0.587,Neutral
+Midwest,LOC,0.67,Positive
+Te,LOC,0.487,Neutral
+Quebec,LOC,0.782,Positive
+Engineering,ORG,0.501,Neutral
+Southampton,LOC,0.662,Positive
+Volvo,ORG,0.632,Positive
+AL,ORG,0.488,Neutral
+Daimler,ORG,0.655,Positive
+Nikola,ORG,0.584,Neutral
+Chris,PER,0.416,Neutral
+Hu,PER,0.515,Neutral
+Ian,PER,0.69,Positive
+Pepsi,ORG,0.721,Positive
+SF,LOC,0.701,Positive
+Northern California,LOC,0.665,Positive
+Do,MISC,0.529,Neutral
+Driving,MISC,0.611,Positive
+Vehicles,MISC,0.936,Very Positive
+GM,MISC,0.337,Low
+Ion,MISC,0.698,Positive
+Mercedes,ORG,0.617,Positive
+Full Self Driving,MISC,0.545,Neutral
+AI,MISC,0.59,Neutral
+Lyft,ORG,0.576,Neutral
+Brisbane,LOC,0.649,Positive
+Queensland,LOC,0.582,Neutral
+WA,LOC,0.57,Neutral
+Shell,ORG,0.583,Neutral
+Li,ORG,0.653,Positive
+MA,MISC,0.457,Neutral
+SM,ORG,0.527,Neutral
+Denver,LOC,0.656,Positive
+Model X,MISC,0.615,Positive
+Interstate,MISC,0.663,Positive
+Tesla Supercharger,MISC,0.463,Neutral
+Nissan,MISC,0.603,Positive
+Elons,ORG,0.552,Neutral
+U. S.,LOC,0.604,Positive
+HD,MISC,0.727,Positive
+Democrats,MISC,0.359,Low
+Solo,MISC,0.523,Neutral
+Solo,ORG,0.488,Neutral
+Corolla,MISC,0.688,Positive
+Tennessee,LOC,0.656,Positive
+Corbin Sparrow,MISC,0.659,Positive
+NY,LOC,0.604,Positive
+The,LOC,0.684,Positive
+ElectraMeccanica,ORG,0.606,Positive
+Montana,LOC,0.555,Neutral
+Wisconsin,LOC,0.685,Positive
+Eli,PER,0.524,Neutral
+Hu,MISC,0.623,Positive
+Joe Biden,PER,0.628,Positive
+Elio Motors,ORG,0.53,Neutral
+Reg,ORG,0.577,Neutral
+New York City,LOC,0.637,Positive
+Arcimoto,MISC,0.864,Very Positive
+Toronto,LOC,0.766,Positive
+Vancouver,LOC,0.661,Positive
+Arc,PER,0.69,Positive
+Jeep,MISC,0.798,Positive
+BT,MISC,0.801,Very Positive
+Top Gear,MISC,0.765,Positive
+Wuling,MISC,0.62,Positive
+Am,MISC,0.731,Positive
+Harrogate,LOC,0.723,Positive
+Paris,LOC,0.747,Positive
+U. K,LOC,0.615,Positive
+Harley,MISC,0.671,Positive
+Austin,LOC,0.707,Positive
+USB,MISC,0.564,Neutral
+Smart,MISC,0.775,Positive
+South Africa,LOC,0.502,Neutral
+Greece,LOC,0.818,Very Positive
+Dacia Spring,MISC,0.501,Neutral
+Ya,MISC,0.604,Positive
+Fiesta,MISC,0.741,Positive
+Dacia,ORG,0.632,Positive
+Re,MISC,0.585,Neutral
+Robin,MISC,0.623,Positive
+DC,LOC,0.719,Positive
+Sinclair C5,MISC,0.535,Neutral
+Holland,LOC,0.608,Positive
+Citroen Ami,MISC,0.655,Positive
+FCL,ORG,0.847,Very Positive
+Congress,ORG,0.48,Neutral
+Renault Twizy,MISC,0.708,Positive
+Norwegian,MISC,0.686,Positive
+Carver,MISC,0.752,Positive
+Fiat 500,MISC,0.698,Positive
+AD,MISC,0.528,Neutral
+Elec,ORG,0.552,Neutral
+North America,LOC,0.572,Neutral
+Australians,MISC,0.495,Neutral
+Wu,MISC,0.628,Positive
+USD,MISC,0.428,Neutral
+Beetle,MISC,0.769,Positive
+Portland,LOC,0.574,Neutral
+Oregon,LOC,0.506,Neutral
+Carver,PER,0.716,Positive
+Da,MISC,0.49,Neutral
+Leaf,ORG,0.588,Neutral
+Da,ORG,0.509,Neutral
+Citroën,ORG,0.66,Positive
+Clive Sinclair,PER,0.489,Neutral
+Me,ORG,0.47,Neutral
+Ioniq,ORG,0.674,Positive
+Met,MISC,0.771,Positive
+Spanish,MISC,0.717,Positive
+Ki,MISC,0.577,Neutral
+Soul,MISC,0.623,Positive
+Renault Zoe,MISC,0.688,Positive
+IRA,ORG,0.664,Positive
+Colorado,LOC,0.598,Neutral
+Leaf,MISC,0.667,Positive
+Ben,PER,0.739,Positive
+Tata,MISC,0.505,Neutral
+Civic,MISC,0.718,Positive
+Ku,PER,0.714,Positive
+Dutch,MISC,0.593,Neutral
+Microlino,MISC,0.51,Neutral
+F - 150,MISC,0.688,Positive
+Youtub,ORG,0.549,Neutral
+Dacia,MISC,0.567,Neutral
+Apple,MISC,0.665,Positive
+Arcimo,PER,0.513,Neutral
+AC,ORG,0.609,Positive
+IC,ORG,0.646,Positive
+Audi,ORG,0.596,Neutral
+St,MISC,0.541,Neutral
+Tokyo,LOC,0.789,Positive
+Washington,LOC,0.526,Neutral
+Iceland,LOC,0.637,Positive
+AutoPilot,ORG,0.785,Positive
+AP,ORG,0.679,Positive
+Autopilot,ORG,0.656,Positive
+Model S,MISC,0.678,Positive
+Ki,PER,0.511,Neutral
+Kia E,MISC,0.338,Low
+Wales,LOC,0.628,Positive
+As,ORG,0.704,Positive
+FSD,MISC,0.604,Positive
+CT,MISC,0.595,Neutral
+DCFC,ORG,0.622,Positive
+Re,PER,0.656,Positive
+MS,MISC,0.692,Positive
+Kia,MISC,0.493,Neutral
+Model 2,MISC,0.67,Positive
+Seattle,LOC,0.667,Positive
+Finland,LOC,0.521,Neutral
+NHTSA,ORG,0.669,Positive
+Auto,MISC,0.688,Positive
+Bus,MISC,0.436,Neutral
+Ba,PER,0.639,Positive
+Minnesota,LOC,0.601,Positive
+Ch,ORG,0.63,Positive
+Jon,PER,0.661,Positive
+Dodge,ORG,0.638,Positive
+Su,MISC,0.361,Low
+Germans,MISC,0.51,Neutral
+Type 2,MISC,0.744,Positive
+Aussie,MISC,0.501,Neutral
+Honda E,MISC,0.581,Neutral
+NACS,ORG,0.727,Positive
+Tesla Supercha,MISC,0.726,Positive
+Alex,PER,0.586,Neutral
+E for Electric,ORG,0.606,Positive
+Oz,LOC,0.45,Neutral
+Skoda,ORG,0.722,Positive
+Koreans,MISC,0.498,Neutral
+NAC,ORG,0.668,Positive
+ID. 3,MISC,0.397,Low
+Cadillac,MISC,0.657,Positive
+GT,MISC,0.553,Neutral
+Ya,LOC,0.658,Positive
+EU,MISC,0.645,Positive
+Ryan,PER,0.824,Very Positive
+Akira,PER,0.686,Positive
+Ni,PER,0.51,Neutral
+Victoria,LOC,0.673,Positive
+Corsa,MISC,0.71,Positive
+GPS,MISC,0.402,Neutral
+Cybertruck,MISC,0.676,Positive
+Cy,PER,0.679,Positive
+Taycan,MISC,0.602,Positive
+Ford F150,MISC,0.486,Neutral
+Cybert,ORG,0.69,Positive
+Charged,ORG,0.841,Very Positive
+Cybert,LOC,0.734,Positive
+Di,ORG,0.456,Neutral
+Mu,ORG,0.49,Neutral
+Climate Change,MISC,0.56,Neutral
+Republicans,MISC,0.493,Neutral
+Bobby,PER,0.572,Neutral
+Honda,MISC,0.856,Very Positive
+The Netherlands,LOC,0.659,Positive
+Europa,LOC,0.607,Positive
+Tesla Model Y,MISC,0.597,Neutral
+Skoda,MISC,0.624,Positive
+Ford Lightning,MISC,0.705,Positive
+Cybertru,ORG,0.605,Positive
+Starlink,ORG,0.519,Neutral
+Op,ORG,0.703,Positive
+Shanghai,LOC,0.668,Positive
+Ford F - 150,MISC,0.587,Neutral
+CT,ORG,0.7,Positive
+San Francisco,LOC,0.574,Neutral
+Mu,MISC,0.614,Positive
+Top Gear,ORG,0.778,Positive
+Cy,ORG,0.714,Positive
+Truck,ORG,0.809,Very Positive
+Tundra,MISC,0.601,Positive
+Tu,MISC,0.569,Neutral
+Hummer,MISC,0.573,Neutral
+Nazi,MISC,0.507,Neutral
+Hummer EV,MISC,0.799,Positive
+Viking,MISC,0.598,Neutral
+Trump,PER,0.606,Positive
+Star,MISC,0.546,Neutral
+Nevada,LOC,0.51,Neutral
+World,MISC,0.603,Positive
+Lada,MISC,0.874,Very Positive
+R3,MISC,0.689,Positive
+Alaska,LOC,0.512,Neutral
+La,PER,0.316,Low
+Volvo,MISC,0.588,Neutral
+LFP,ORG,0.341,Low
+La,MISC,0.695,Positive
+Ni,MISC,0.586,Neutral
+R2,MISC,0.731,Positive
+Ni,ORG,0.491,Neutral
+Lu,MISC,0.463,Neutral
+Europeans,MISC,0.708,Positive
+Golf,MISC,0.685,Positive
+Volvo EX30,MISC,0.792,Positive
+Sa,PER,0.694,Positive
+Fi,PER,0.61,Positive
+Cha,ORG,0.569,Neutral
+Rivian,MISC,0.652,Positive
+Reuters,ORG,0.537,Neutral
+Renault 5,MISC,0.672,Positive
+Ho,PER,0.809,Very Positive
+Du,PER,0.493,Neutral
+EU,LOC,0.585,Neutral
+RA,MISC,0.337,Low
+Supercha,MISC,0.561,Neutral
+Land Rover,ORG,0.541,Neutral
+Range Rover,MISC,0.539,Neutral
+R1,MISC,0.772,Positive
+Vehicle,MISC,0.59,Neutral
+SMC,ORG,0.587,Neutral
+Google,ORG,0.542,Neutral
+Star Trek,MISC,0.505,Neutral
+Euro,MISC,0.554,Neutral
+FL,LOC,0.71,Positive
+3D,MISC,0.754,Positive
+Uber,ORG,0.593,Neutral
+Sc,PER,0.558,Neutral
+Tesla Roadster,MISC,0.589,Neutral
+Apollo,MISC,0.526,Neutral
+Bluetooth,MISC,0.681,Positive
+NZ,LOC,0.615,Positive
+NCAP,MISC,0.593,Neutral
+Denmark,LOC,0.775,Positive
+anti,MISC,0.371,Low
+Tesla 3,MISC,0.541,Neutral
+Roadster,MISC,0.581,Neutral
+Corvette,MISC,0.719,Positive
+CT,LOC,0.51,Neutral
+CC,ORG,0.528,Neutral
+EV,ORG,0.608,Positive
+Nissan,ORG,0.551,Neutral
+Range Rover,ORG,0.348,Low
+IKEA,ORG,0.656,Positive
+IP,ORG,0.515,Neutral
+Sal,PER,0.779,Positive
+Southern California,LOC,0.663,Positive
+AN,ORG,0.421,Neutral
+City,LOC,0.706,Positive
+Zap,ORG,0.588,Neutral
+VW Beetle,MISC,0.611,Positive
+Bangkok,LOC,0.612,Positive
+Di,MISC,0.581,Neutral
+CF,MISC,0.589,Neutral
+Chevy,MISC,0.603,Positive
+Stellanti,ORG,0.497,Neutral
+PS,ORG,0.644,Positive
+Mo,PER,0.668,Positive
+Tesla S,MISC,0.613,Positive
+Rex,MISC,0.703,Positive
+Lucid,ORG,0.565,Neutral
+ADAS,MISC,0.781,Positive
+Munro,PER,0.51,Neutral
+Matt,PER,0.764,Positive
+Korea,LOC,0.513,Neutral
+Korean,MISC,0.531,Neutral
+Volvo V70,MISC,0.636,Positive
+Kona,MISC,0.684,Positive
+Ko,PER,0.604,Positive
+Ioniq5,MISC,0.757,Positive
+Kia,ORG,0.384,Low
+Hyundai,MISC,0.605,Positive
+Model T,MISC,0.506,Neutral
+TFL,ORG,0.449,Neutral
+In,ORG,0.644,Positive
+KIA,ORG,0.369,Low
+ID,MISC,0.589,Neutral
+Polo,MISC,0.636,Positive
+Dacia,LOC,0.409,Neutral
+Henry Ford,PER,0.537,Neutral
+Ki,ORG,0.538,Neutral
+MEB,ORG,0.461,Neutral
+Samsung,ORG,0.475,Neutral
+Seat Mii,MISC,0.69,Positive
+Cup,PER,0.365,Low
+Cupra,MISC,0.565,Neutral
+Wyoming,LOC,0.566,Neutral
+ID3,MISC,0.605,Positive
+NIO,ORG,0.617,Positive
+Dacia Spring,ORG,0.395,Low
+Citroën Ami,MISC,0.724,Positive
+Mi,MISC,0.781,Positive
+Cupra,ORG,0.524,Neutral
+Romania,LOC,0.458,Neutral
+Ford Fiesta,MISC,0.787,Positive
+VAG,ORG,0.676,Positive
+e - Golf,MISC,0.611,Positive
+Nissan Leaf,ORG,0.49,Neutral
+MG,ORG,0.596,Neutral
+VW ID,MISC,0.694,Positive
+Zoe,ORG,0.709,Positive
+World,LOC,0.814,Very Positive
+Sko,ORG,0.775,Positive
+VW E,MISC,0.496,Neutral
+Mi,ORG,0.352,Low
+Neo,MISC,0.521,Neutral
+Ya,PER,0.487,Neutral
+Pick,MISC,0.619,Positive
+Fiat,MISC,0.727,Positive
+Up,MISC,0.779,Positive
+Kodak,ORG,0.445,Neutral
+Le,MISC,0.754,Positive
+MG,MISC,0.647,Positive
+Ford,MISC,0.613,Positive
+Andy,PER,0.789,Positive
+Siemens,ORG,0.692,Positive
+Munich,LOC,0.723,Positive
+BMW iX,MISC,0.52,Neutral
+Genesis,ORG,0.652,Positive
+Gen,ORG,0.62,Positive
+As,PER,0.762,Positive
+TV,MISC,0.633,Positive
+Charlie,PER,0.758,Positive
+Cit,MISC,0.653,Positive
+Oli,MISC,0.717,Positive
+Alberta,LOC,0.455,Neutral
+Citroen,ORG,0.63,Positive
+Democratic,MISC,0.653,Positive
+Lego,MISC,0.74,Positive
+MI,MISC,0.566,Neutral
+St,ORG,0.62,Positive
+Panda,MISC,0.626,Positive
+DS,MISC,0.811,Very Positive
+Citroën,MISC,0.332,Low
+CarPlay,MISC,0.461,Neutral
+Le,ORG,0.604,Positive
+Polestar,ORG,0.503,Neutral
+FIAT,ORG,0.545,Neutral
+FCA,ORG,0.603,Positive
+Ki,LOC,0.493,Neutral
+Am,PER,0.724,Positive
+Car,ORG,0.635,Positive
+Am,ORG,0.718,Positive
+California,MISC,0.724,Positive
+Honda Element,MISC,0.778,Positive
+MG4,MISC,0.725,Positive
+The,MISC,0.632,Positive
+Bon,PER,0.331,Low
+Chevy,ORG,0.728,Positive
+Subaru,ORG,0.527,Neutral
+Audi,MISC,0.554,Neutral
+Son,PER,0.362,Low
+Birmingham,LOC,0.714,Positive
+Ion,ORG,0.647,Positive
+Citroen,MISC,0.793,Positive
+Zoe,PER,0.605,Positive
+Saturn,ORG,0.685,Positive
+AM,MISC,0.866,Very Positive
+Le,PER,0.504,Neutral
+Fi,MISC,0.53,Neutral
+Fiat Panda,MISC,0.613,Positive
+Bo,ORG,0.543,Neutral
+Italy,LOC,0.562,Neutral
+McLaren,ORG,0.738,Positive
+Plaid,MISC,0.664,Positive
+Co,PER,0.49,Neutral
+Ford Mustang,MISC,0.531,Neutral
+One,MISC,0.601,Positive
+Ram,ORG,0.77,Positive
+Lamborghini,MISC,0.815,Very Positive
+Benz,ORG,0.518,Neutral
+Heaven,LOC,0.591,Neutral
+Po,PER,0.501,Neutral
+Jaguar,ORG,0.608,Positive
+Pace,MISC,0.735,Positive
+Model,MISC,0.572,Neutral
+Na,PER,0.448,Neutral
+Luc,MISC,0.535,Neutral
+Porsche Taycan,MISC,0.655,Positive
+Amsterdam,LOC,0.708,Positive
+Daily Mail,ORG,0.447,Neutral
+Mazda,ORG,0.633,Positive
+Lotus,ORG,0.568,Neutral
+Oxford,LOC,0.702,Positive
+I3,MISC,0.613,Positive
+Time,MISC,0.7,Positive
+Alpine,MISC,0.352,Low
+Ra,PER,0.386,Low
+R5,MISC,0.777,Positive
+VI,ORG,0.719,Positive
+Lexus,MISC,0.692,Positive
+Mini E,MISC,0.709,Positive
+Philippines,LOC,0.673,Positive
+Wuling,ORG,0.737,Positive
+Android,MISC,0.65,Positive
+New Zealand,LOC,0.518,Neutral
+Waymo,ORG,0.723,Positive
+Wuling Mini E,MISC,0.585,Neutral
+Tesla Cybertruck,MISC,0.55,Neutral
+Nissan Sakura,MISC,0.537,Neutral
+Ta,PER,0.566,Neutral
+Suzuki,ORG,0.67,Positive
+UN,ORG,0.512,Neutral
+Google,MISC,0.592,Neutral
+C +,MISC,0.691,Positive
+Mo,MISC,0.573,Neutral
+Indonesia,LOC,0.368,Low
+James May,PER,0.587,Neutral
+Op,PER,0.622,Positive
+Road,MISC,0.641,Positive
+Sato,PER,0.53,Neutral
+Elliott,PER,0.713,Positive
+Honda Civic,MISC,0.691,Positive
+Jesus,PER,0.51,Neutral
+El,MISC,0.538,Neutral
+Kona Electric,ORG,0.514,Neutral
+Hitler,PER,0.408,Neutral
+Honda Fit,MISC,0.796,Positive
+Manchester,LOC,0.679,Positive
+Ami,MISC,0.508,Neutral
+Panasonic,ORG,0.465,Neutral
+Nokia,ORG,0.626,Positive
+Vauxhall,ORG,0.677,Positive
+Grande Panda,MISC,0.615,Positive
+Pan,MISC,0.782,Positive
+Pandas,MISC,0.709,Positive
+Do,PER,0.525,Neutral
+Hybrid,MISC,0.664,Positive
+CA,ORG,0.602,Positive
+Stellantis,ORG,0.566,Neutral
+TO,MISC,0.514,Neutral
+MG ZS E,MISC,0.749,Positive
+Arab,MISC,0.313,Low
+Pet,ORG,0.767,Positive
+C3,MISC,0.673,Positive
+Brazil,LOC,0.499,Neutral
+Michael,PER,0.689,Positive
+Poland,LOC,0.707,Positive
+Oscar,MISC,0.691,Positive
+Battery,ORG,0.732,Positive
+YouTube,LOC,0.427,Neutral
+Mini,ORG,0.612,Positive
+VW Golf,MISC,0.511,Neutral
+Jeremy Clarkson,PER,0.466,Neutral
+NA,ORG,0.723,Positive
+EV,MISC,0.647,Positive
+non,MISC,0.567,Neutral
+Kia Soul,MISC,0.447,Neutral
+E - Golf,MISC,0.683,Positive
+Cyber,ORG,0.575,Neutral
+OEM,ORG,0.572,Neutral
+In,MISC,0.733,Positive
+ID. 4,MISC,0.714,Positive
+ID,ORG,0.514,Neutral
+LR,MISC,0.74,Positive
+Inverness,LOC,0.783,Positive
+Hungary,LOC,0.699,Positive
+Tony Seba,PER,0.643,Positive
+CATL,ORG,0.572,Neutral
+Microsoft,ORG,0.645,Positive
+People,MISC,0.698,Positive
+MG5,MISC,0.567,Neutral
+Honda Cub,MISC,0.625,Positive
+Shanghai Customs,ORG,0.65,Positive
+Cubs,ORG,0.569,Neutral
+Malaysia,LOC,0.53,Neutral
+Ba,MISC,0.74,Positive
+BR,MISC,0.649,Positive
+Starbucks,ORG,0.523,Neutral
+eB,ORG,0.772,Positive
+Go,PER,0.511,Neutral
+Ch,LOC,0.518,Neutral
+Nissan Leafs,MISC,0.579,Neutral
+Vespa,MISC,0.841,Very Positive
+Peru,LOC,0.651,Positive
+eBay,MISC,0.578,Neutral
+Maddie,PER,0.782,Positive
+Greg,PER,0.781,Positive
+Cambridge,LOC,0.658,Positive
+Copenhagen,LOC,0.773,Positive
+Leeds,LOC,0.69,Positive
+Raleigh,ORG,0.681,Positive
+Sheffield,LOC,0.629,Positive
+Yorkshire,LOC,0.705,Positive
+Ka,PER,0.739,Positive
+Sc,MISC,0.539,Neutral
+Spa,PER,0.451,Neutral
+Dundee,LOC,0.785,Positive
+West Yorkshire,LOC,0.704,Positive
+Bo,PER,0.502,Neutral
+Diesel,ORG,0.622,Positive
+Devon,LOC,0.655,Positive
+Niro,MISC,0.647,Positive
+New York State,LOC,0.766,Positive
+Gocycle,MISC,0.65,Positive
+Ra,MISC,0.712,Positive
+Helen,PER,0.831,Very Positive
+eB,MISC,0.7,Positive
+Pro,MISC,0.736,Positive
+Love,PER,0.911,Very Positive
+Corona,MISC,0.578,Neutral
+You Tube,ORG,0.544,Neutral
+NE,MISC,0.491,Neutral
+Rob,PER,0.711,Positive
+Bosch,ORG,0.52,Neutral
+BTW,ORG,0.671,Positive
+Netflix,ORG,0.485,Neutral
+Netflix,MISC,0.535,Neutral
+Oh,MISC,0.794,Positive
+CO,ORG,0.592,Neutral
+Cornwall,LOC,0.627,Positive
+Van Mo,PER,0.744,Positive
+Massachusetts,LOC,0.483,Neutral
+S3,MISC,0.751,Positive
+Van Moof,PER,0.53,Neutral
+Van,PER,0.619,Positive
+Van Moof S3,MISC,0.894,Very Positive
+Ho,MISC,0.685,Positive
+Van Moof,MISC,0.757,Positive
+Yamaha,ORG,0.691,Positive
+Mo,ORG,0.7,Positive
+You,ORG,0.65,Positive
+Hi,PER,0.338,Low
+Vol,ORG,0.628,Positive
+EBike,MISC,0.818,Very Positive
+Swedish,MISC,0.556,Neutral
+Elec,MISC,0.588,Neutral
+John,PER,0.874,Very Positive
+Stockholm,LOC,0.911,Very Positive
+OR,ORG,0.639,Positive
+CAKE,ORG,0.899,Very Positive
+Super,ORG,0.707,Positive
+Cake,MISC,0.427,Neutral
+Oh,ORG,0.867,Very Positive
+Sam,PER,0.608,Positive
+Swiss,MISC,0.629,Positive
+Je,PER,0.481,Neutral
+R &,ORG,0.677,Positive
+Joe Rogan,PER,0.398,Low
+Dan,PER,0.696,Positive
+Barnes,LOC,0.841,Very Positive
+Berlin,LOC,0.653,Positive
+Ontario,LOC,0.646,Positive
+Boring,ORG,0.383,Low
+Starship,ORG,0.588,Neutral
+EAV,ORG,0.716,Positive
+Tesco,ORG,0.679,Positive
+Arcimo,MISC,0.667,Positive
+Adam,PER,0.678,Positive
+EA,MISC,0.76,Positive
+Ha,MISC,0.641,Positive
+Henry Ford,ORG,0.454,Neutral
+BR,LOC,0.781,Positive
+Go,ORG,0.71,Positive
+in,MISC,0.508,Neutral
+WHO,ORG,0.655,Positive
+Edinburgh,LOC,0.567,Neutral
+BBC,ORG,0.515,Neutral
+Harley,PER,0.627,Positive
+Livewire,MISC,0.738,Positive
+En,ORG,0.733,Positive
+Charley,PER,0.866,Very Positive
+SR,ORG,0.701,Positive
+Charley Davidson,PER,0.634,Positive
+Tom,PER,0.698,Positive
+Fr,ORG,0.452,Neutral
+Silverado,MISC,0.672,Positive
+ALL,ORG,0.584,Neutral
+GRE,MISC,0.903,Very Positive
+CH,MISC,0.468,Neutral
+Southeast Asia,LOC,0.476,Neutral
+General Motors,ORG,0.268,Low
+Government,ORG,0.648,Positive
+Ko,MISC,0.715,Positive
+Aircon,ORG,0.768,Positive
+Chan,ORG,0.747,Positive
+Leaf,PER,0.652,Positive
+South America,LOC,0.479,Neutral
+CyberTru,ORG,0.649,Positive
+Tiger,MISC,0.416,Neutral
+Austin,ORG,0.639,Positive
+Tel,ORG,0.557,Neutral
+MG ZS,MISC,0.681,Positive
+Iraq,LOC,0.438,Neutral
+Carver,ORG,0.848,Very Positive
+Cha,MISC,0.474,Neutral
+SpaceX,ORG,0.58,Neutral
+Now,MISC,0.488,Neutral
+TSLA,ORG,0.614,Positive
+He,PER,0.656,Positive
+NIU,ORG,0.559,Neutral
+Ma,ORG,0.621,Positive
+Chad,ORG,0.448,Neutral
+Zappi,MISC,0.654,Positive
+Glasgow,LOC,0.713,Positive
+Putin,PER,0.529,Neutral
+Global,ORG,0.567,Neutral
+Oil,ORG,0.483,Neutral
+Boris,PER,0.587,Neutral
+Green,MISC,0.39,Low
+Exxon,ORG,0.537,Neutral
+Republican,MISC,0.543,Neutral
+Octopus,ORG,0.804,Very Positive
+Po,ORG,0.67,Positive
+Al Gore,PER,0.567,Neutral
+ESG,ORG,0.479,Neutral
+CCS,ORG,0.49,Neutral
+Pa,PER,0.521,Neutral
+Ionic,MISC,0.597,Neutral
+ABC,ORG,0.441,Neutral
+Zoe ZE40,MISC,0.649,Positive
+ABB,ORG,0.595,Neutral
+Frankenstein,PER,0.579,Neutral
+CHA,ORG,0.559,Neutral
+CHAdeMO,ORG,0.316,Low
+Leafs,MISC,0.602,Positive
+Chevrolet,ORG,0.527,Neutral
+Bolt,MISC,0.728,Positive
+Celsius,MISC,0.612,Positive
+Lightning,MISC,0.638,Positive
+BMS,ORG,0.496,Neutral
+Baltic,MISC,0.645,Positive
+Cybertruck,ORG,0.61,Positive
+ISO,MISC,0.549,Neutral
+MB,ORG,0.663,Positive
+Model3,MISC,0.577,Neutral
+Range,MISC,0.575,Neutral
+SR +,MISC,0.804,Very Positive
+MG E,MISC,0.638,Positive
+LP,ORG,0.424,Neutral
+Chargers,ORG,0.651,Positive
+Chiang Mai,LOC,0.691,Positive
+Leafs,ORG,0.437,Neutral
+Mexican,MISC,0.546,Neutral
+Autotrader,ORG,0.748,Positive
+Harry,PER,0.688,Positive
+Tesla Model S,MISC,0.706,Positive
+EVM,ORG,0.722,Positive
+Yorkshire,ORG,0.777,Positive
+NATO,ORG,0.242,Low
+LP,MISC,0.506,Neutral
+Maine,LOC,0.594,Neutral
+Octopus,MISC,0.813,Very Positive
+Ohme,MISC,0.783,Positive
+Chargers,MISC,0.67,Positive
+BP Pulse,ORG,0.759,Positive
+Yorkshire,MISC,0.673,Positive
+Ohme,ORG,0.738,Positive
+Oct,MISC,0.828,Very Positive
+PS,MISC,0.362,Low
+Zap,PER,0.469,Neutral
+Amazing,MISC,0.869,Very Positive
+MG Z,MISC,0.786,Positive
+EDF,ORG,0.879,Very Positive
+Oct,ORG,0.814,Very Positive
+Ionity,ORG,0.607,Positive
+Octopus Go,MISC,0.755,Positive
+RF,MISC,0.641,Positive
+Lidl,ORG,0.671,Positive
+Petrol,ORG,0.592,Neutral
+Osprey,ORG,0.612,Positive
+Instavolt,ORG,0.668,Positive
+Chargepoint,ORG,0.629,Positive
+Map,ORG,0.47,Neutral
+ChargePoint,ORG,0.779,Positive
+Source London,ORG,0.58,Neutral
+Polar,ORG,0.672,Positive
+Highway,MISC,0.446,Neutral
+Polar,MISC,0.812,Very Positive
+Northern Ireland,LOC,0.541,Neutral
+Me,MISC,0.742,Positive
+McDonalds,ORG,0.604,Positive
+Sentry Mode,MISC,0.515,Neutral
+Dave,PER,0.618,Positive
+Mode,MISC,0.302,Low
+Chester,LOC,0.753,Positive
+ZE50,MISC,0.375,Low
+Vehicle,ORG,0.611,Positive
+Missouri,LOC,0.53,Neutral
+Highway Code,MISC,0.472,Neutral
+Ford Focus,MISC,0.686,Positive
+Arkansas,LOC,0.469,Neutral
+Outlander,MISC,0.751,Positive
+Super,MISC,0.789,Positive
+Melbourne,LOC,0.535,Neutral
+ZE40,MISC,0.468,Neutral
+Ta,MISC,0.584,Neutral
+NC,LOC,0.786,Positive
+RA,ORG,0.475,Neutral
+Vegas,LOC,0.558,Neutral
+East Coast,LOC,0.73,Positive
+New England,LOC,0.651,Positive
+New Mexico,LOC,0.621,Positive
+Norfolk,LOC,0.554,Neutral
+Man,MISC,0.601,Positive
+Service,ORG,0.567,Neutral
+ET,ORG,0.551,Neutral
+E Niro,MISC,0.655,Positive
+Govt,ORG,0.657,Positive
+Oh,PER,0.63,Positive
+Go,MISC,0.72,Positive
+OHME,ORG,0.796,Positive
+SA,ORG,0.287,Low
+EVW,ORG,0.92,Very Positive
+Virginia,LOC,0.658,Positive
+Vol,MISC,0.56,Neutral
+Engine,ORG,0.823,Very Positive
+Costco,ORG,0.641,Positive
+Pi,ORG,0.529,Neutral
+National Grid,ORG,0.607,Positive
+Satan,PER,0.62,Positive
+Cobalt,ORG,0.537,Neutral
+Hope,PER,0.887,Very Positive
+Energy,ORG,0.823,Very Positive
+Democrat,MISC,0.431,Neutral
+So,PER,0.585,Neutral
+Yakima,ORG,0.361,Low
+MA,LOC,0.681,Positive
+REI,ORG,0.453,Neutral
+Home Depot,ORG,0.601,Positive
+NH,LOC,0.63,Positive
+Facebook,ORG,0.559,Neutral
+Birch,MISC,0.67,Positive
+& Jesse,ORG,0.813,Very Positive
+Tesla Insurance,ORG,0.736,Positive
+Jesse,PER,0.711,Positive
+NH,ORG,0.656,Positive
+Maryland,LOC,0.601,Positive
+Rivian,ORG,0.568,Neutral
+Zack,PER,0.643,Positive
+Rich,PER,0.763,Positive
+Christ,PER,0.651,Positive
+Israel,LOC,0.505,Neutral
+IP,MISC,0.37,Low
+Silicon Valley,LOC,0.656,Positive
+Lightning,ORG,0.524,Neutral
+F150 Lightning,MISC,0.687,Positive
+Adventure,MISC,0.631,Positive
+America,MISC,0.529,Neutral
+Electrify America,ORG,0.521,Neutral
+Cyber Truck,ORG,0.579,Neutral
+Electri,ORG,0.377,Low
+Ionic 5,MISC,0.642,Positive
+Steve Job,PER,0.754,Positive
+MA,PER,0.538,Neutral
+SC,ORG,0.723,Positive
+Atlas,ORG,0.66,Positive
+Las Vegas,LOC,0.473,Neutral
+SpaceX,MISC,0.609,Positive
+Tacoma,MISC,0.672,Positive
+Cape,LOC,0.753,Positive
+Electrify,ORG,0.438,Neutral
+Now You Know,ORG,0.742,Positive
+EVgo,ORG,0.744,Positive
+F - 150 Lightning,MISC,0.819,Very Positive
+Apple Carplay,MISC,0.452,Neutral
+Spotify,ORG,0.714,Positive
+NEMA,MISC,0.608,Positive
+VA,LOC,0.636,Positive
+Truck,MISC,0.575,Neutral
+Illinois,LOC,0.483,Neutral
+Supercharger,MISC,0.666,Positive
+Z & J,ORG,0.697,Positive
+Jessie,PER,0.646,Positive
+UAW,ORG,0.619,Positive
+Twitter,ORG,0.515,Neutral
+Zac,PER,0.618,Positive
+Zach,PER,0.624,Positive
+Jess,PER,0.729,Positive
+CyberT,ORG,0.641,Positive
+Giga,MISC,0.75,Positive
+GA,LOC,0.653,Positive
+Jeff Bezos,PER,0.491,Neutral
+Starlink,MISC,0.481,Neutral
+Jeff,PER,0.505,Neutral
+Now You Know,MISC,0.784,Positive
+Youtube,ORG,0.521,Neutral
+Self Driving,MISC,0.607,Positive
+NYK,MISC,0.677,Positive
+Milwaukee,LOC,0.708,Positive
+Self,MISC,0.594,Neutral
+CyberTruck,MISC,0.677,Positive
+PBS,ORG,0.378,Low
+CyberTruck,ORG,0.798,Positive
+MAGA,ORG,0.631,Positive
+Russians,MISC,0.412,Neutral
+Elon,PER,0.487,Neutral
+NYK,ORG,0.752,Positive
+FBI,ORG,0.409,Neutral
+FSD,ORG,0.606,Positive
+EnergyX,ORG,0.665,Positive
+Be,PER,0.504,Neutral
+Puerto Rico,LOC,0.561,Neutral
+Tea,PER,0.46,Neutral
+te,ORG,0.566,Neutral
+You,MISC,0.673,Positive
+Saudi,MISC,0.484,Neutral
+Sandy,PER,0.494,Neutral
+FSD Beta,MISC,0.48,Neutral
+Congo,LOC,0.61,Positive
+Poliloop,ORG,0.671,Positive
+Venus,LOC,0.583,Neutral
+Zack & Jesse,ORG,0.484,Neutral
+Loop,MISC,0.427,Neutral
+Elon Mu,ORG,0.606,Positive
+Venezuela,LOC,0.566,Neutral
+IEA,ORG,0.51,Neutral
+Michael Moore,PER,0.532,Neutral
+Idaho,LOC,0.513,Neutral
+CC,MISC,0.577,Neutral
+Bitcoin,ORG,0.362,Low
+Middle East,LOC,0.514,Neutral
+Tesla Solar,ORG,0.598,Neutral
+Warren,PER,0.503,Neutral
+CNN,ORG,0.545,Neutral
+NBC,ORG,0.529,Neutral
+Ross,PER,0.623,Positive
+Saudi Arabia,LOC,0.486,Neutral
+Iran,LOC,0.4,Low
+Pat,MISC,0.608,Positive
+Obama,PER,0.52,Neutral
+San Antonio,LOC,0.569,Neutral
+Russ,PER,0.541,Neutral
+Volt,MISC,0.74,Positive
+Teslabot,MISC,0.41,Neutral
+Op,MISC,0.673,Positive
+AI,ORG,0.681,Positive
+Boston Dynamics,ORG,0.726,Positive
+Teslabot,ORG,0.514,Neutral
+Robot,ORG,0.518,Neutral
+Tesla Bot,MISC,0.471,Neutral
+TeslaBot,ORG,0.726,Positive
+Alex,ORG,0.747,Positive
+iRobot,ORG,0.656,Positive
+UBI,ORG,0.634,Positive
+Moon,LOC,0.582,Neutral
+Robot,MISC,0.633,Positive
+Roomba,ORG,0.815,Very Positive
+Tesla Bots,MISC,0.815,Very Positive
+TTN,ORG,0.784,Positive
+EGO,ORG,0.823,Very Positive
+Patreon,ORG,0.659,Positive
+& Jessie,ORG,0.83,Very Positive
+Mitch,PER,0.94,Very Positive
+Bernie,PER,0.566,Neutral
+Austin,PER,0.709,Positive
+Austin Meyer,PER,0.718,Positive
+Zac & Jesse,ORG,0.744,Positive
+Bill,MISC,0.433,Neutral
+Bernie Sanders,PER,0.604,Positive
+Andrew Yang,PER,0.648,Positive
+Fed,ORG,0.698,Positive
+White House,LOC,0.641,Positive
+Gates,PER,0.482,Neutral
+IS,ORG,0.389,Low
+Adams,PER,0.467,Neutral
+East Texas,LOC,0.446,Neutral
+Patent,MISC,0.511,Neutral
+Einstein,PER,0.498,Neutral
+MSM,ORG,0.524,Neutral
+Bill,PER,0.59,Neutral
+Senate,ORG,0.577,Neutral
+Nikola Tesla,PER,0.682,Positive
+Thor,MISC,0.56,Neutral
+Steve Jobs,PER,0.506,Neutral
+Ample,ORG,0.798,Positive
+Hornsdale,LOC,0.381,Low
+Ambri,ORG,0.805,Very Positive
+Elon,MISC,0.633,Positive
+Lordstown,LOC,0.369,Low
+AT & T,ORG,0.358,Low
+Lightening,MISC,0.596,Neutral
+Big Auto,ORG,0.644,Positive
+Elon Musk,PER,0.663,Positive
+Motorola,ORG,0.604,Positive
+Boeing,ORG,0.5,Neutral
+Solar City,ORG,0.761,Positive
+Ukrainian,MISC,0.388,Low
+Triodos,ORG,0.561,Neutral
+Bank Australia,ORG,0.467,Neutral
+Warren Redlich,PER,0.507,Neutral
+Tesla Service,ORG,0.587,Neutral
+Gordon Johnson,PER,0.675,Positive
+Service Center,ORG,0.626,Positive
+Center,LOC,0.468,Neutral
+Texas,ORG,0.557,Neutral
+Space X,ORG,0.498,Neutral
+Twitter,MISC,0.543,Neutral
+Love,MISC,0.86,Very Positive
+Bo,LOC,0.646,Positive
+Scott Adams,PER,0.371,Low
+Musk,PER,0.51,Neutral
+FCC,ORG,0.437,Neutral
+Free Speech,MISC,0.669,Positive
+Elizabeth Warren,PER,0.287,Low
+Space X,MISC,0.558,Neutral
+Nigerian,MISC,0.341,Low
+Babylon Bee,ORG,0.549,Neutral
+Twitter,LOC,0.606,Positive
+Boring Company,ORG,0.377,Low
+Falcon 9,MISC,0.622,Positive
+Starship,MISC,0.56,Neutral
+Mary,PER,0.629,Positive
+Russell Brand,PER,0.437,Neutral
+Brand,PER,0.325,Low
+Dan O ' Dowd,PER,0.49,Neutral
+PayPal,ORG,0.703,Positive
+ULA,ORG,0.602,Positive
+Atlas V,MISC,0.62,Positive
+Delta IV,MISC,0.624,Positive
+Edison,PER,0.709,Positive
+Car Play,MISC,0.752,Positive
+Mach E,MISC,0.698,Positive
+Gregory,PER,0.679,Positive
+Mach,MISC,0.958,Very Positive
+Silverado E,MISC,0.715,Positive
+SAE,ORG,0.385,Low
+Standard,MISC,0.436,Neutral
+Ford & GM,ORG,0.647,Positive
+Sandy Monroe,PER,0.46,Neutral
+Redlich,PER,0.507,Neutral
+Tesla FSD,MISC,0.388,Low
+Beta,MISC,0.554,Neutral
+Lidar,ORG,0.439,Neutral
+Emporia,ORG,0.896,Very Positive
+Vincent,PER,0.785,Positive
+Van Go,PER,0.728,Positive
+Lia,PER,0.807,Very Positive
+Don McLean,PER,0.756,Positive
+Vincent Van Gogh,PER,0.712,Positive
+Don Mclean,PER,0.75,Positive
+Theo,PER,0.881,Very Positive
+Starry Night,MISC,0.682,Positive
+Starry Starry Night,MISC,0.723,Positive
+Loving Vincent,MISC,0.913,Very Positive

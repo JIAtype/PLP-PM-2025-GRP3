@@ -1,0 +1,245 @@
+,channel,topics,Negative,Neutral,Positive
+0,Bjorn Nyland,acceleration,2,3,10
+1,Bjorn Nyland,battery,190,248,528
+2,Bjorn Nyland,bms,22,39,89
+3,Bjorn Nyland,bmw i3,47,31,34
+4,Bjorn Nyland,byd,1,3,9
+5,Bjorn Nyland,capacity,26,30,72
+6,Bjorn Nyland,ccs,50,87,182
+7,Bjorn Nyland,charger,111,169,394
+8,Bjorn Nyland,charging,175,233,503
+9,Bjorn Nyland,charging speed,57,77,173
+10,Bjorn Nyland,charging station,59,52,75
+11,Bjorn Nyland,crossover,9,9,20
+12,Bjorn Nyland,degradation,107,103,244
+13,Bjorn Nyland,drag coefficient,28,32,79
+14,Bjorn Nyland,fast charging,4,10,13
+15,Bjorn Nyland,home charging,6,3,15
+16,Bjorn Nyland,hybrid,3,3,13
+17,Bjorn Nyland,kwh,18,33,57
+18,Bjorn Nyland,public charger,6,3,15
+19,Bjorn Nyland,range,97,125,342
+20,Bjorn Nyland,road trip,20,38,83
+21,Bjorn Nyland,sedan,30,56,131
+22,Bjorn Nyland,state of charge,20,29,52
+23,Bjorn Nyland,supercharger,73,118,282
+24,Bjorn Nyland,suv,45,81,202
+25,Bjorn Nyland,tesla,178,237,521
+26,Bjorn Nyland,tesla supercharger,5,8,24
+27,Bjorn Nyland,thermal management,29,66,109
+28,Bjorn Nyland,warranty,4,10,13
+29,E for Electric,acceleration,86,68,128
+30,E for Electric,adas,132,60,265
+31,E for Electric,ai,132,60,265
+32,E for Electric,all-wheel drive,3,4,18
+33,E for Electric,autonomous driving,77,40,164
+34,E for Electric,autopilot,614,342,1130
+35,E for Electric,battery,1063,784,2163
+36,E for Electric,battery swap,139,144,273
+37,E for Electric,bidirectional charging,20,23,50
+38,E for Electric,bmw i3,4,6,6
+39,E for Electric,capacity,352,220,609
+40,E for Electric,ccs,337,244,838
+41,E for Electric,charge time,139,144,273
+42,E for Electric,chargepoint,270,213,720
+43,E for Electric,charger,741,470,1500
+44,E for Electric,charging,1309,917,2669
+45,E for Electric,charging speed,98,79,232
+46,E for Electric,charging station,196,202,436
+47,E for Electric,crossover,92,96,203
+48,E for Electric,dc fast charging,95,97,202
+49,E for Electric,degradation,53,76,145
+50,E for Electric,driver assistance,65,65,151
+51,E for Electric,electrify america,835,578,1709
+52,E for Electric,energy density,86,68,128
+53,E for Electric,fast charging,492,346,880
+54,E for Electric,federal tax credit,92,82,222
+55,E for Electric,home charging,211,192,430
+56,E for Electric,horsepower,50,45,140
+57,E for Electric,infotainment,375,219,638
+58,E for Electric,lithium-ion,86,68,128
+59,E for Electric,lucid motors,86,68,128
+60,E for Electric,mileage,15,16,20
+61,E for Electric,network,505,433,1227
+62,E for Electric,nhtsa,132,60,265
+63,E for Electric,nissan leaf,4,6,6
+64,E for Electric,plug-in hybrid,4,6,6
+65,E for Electric,range,1047,781,2029
+66,E for Electric,recall,86,54,186
+67,E for Electric,rivian,611,439,1442
+68,E for Electric,road trip,139,144,273
+69,E for Electric,self-driving,336,253,737
+70,E for Electric,smart charging,15,23,49
+71,E for Electric,solid-state battery,86,68,128
+72,E for Electric,state of charge,459,385,1176
+73,E for Electric,supercharger,798,545,1632
+74,E for Electric,suv,274,187,666
+75,E for Electric,tax credit,85,89,209
+76,E for Electric,tesla,1396,975,2830
+77,E for Electric,tesla supercharger,175,184,433
+78,E for Electric,top speed,261,100,368
+79,E for Electric,torque,50,45,140
+80,E for Electric,touchscreen,44,54,105
+81,E for Electric,warranty,62,78,164
+82,Electric Vehicle Man,acceleration,84,62,311
+83,Electric Vehicle Man,autopilot,21,64,149
+84,Electric Vehicle Man,battery,915,854,2979
+85,Electric Vehicle Man,battery life,16,36,98
+86,Electric Vehicle Man,battery management system,116,90,254
+87,Electric Vehicle Man,battery warranty,45,83,241
+88,Electric Vehicle Man,bev,42,34,101
+89,Electric Vehicle Man,bms,108,86,240
+90,Electric Vehicle Man,bmw i3,47,78,222
+91,Electric Vehicle Man,capacity,71,71,199
+92,Electric Vehicle Man,ccs,127,133,459
+93,Electric Vehicle Man,chademo,42,41,140
+94,Electric Vehicle Man,charge time,44,41,98
+95,Electric Vehicle Man,charger,598,607,2123
+96,Electric Vehicle Man,charging,645,627,2114
+97,Electric Vehicle Man,charging speed,8,4,14
+98,Electric Vehicle Man,charging station,4,6,7
+99,Electric Vehicle Man,crossover,1,1,7
+100,Electric Vehicle Man,daily commute,54,59,218
+101,Electric Vehicle Man,degradation,333,222,829
+102,Electric Vehicle Man,fast charging,9,6,21
+103,Electric Vehicle Man,handling,37,69,153
+104,Electric Vehicle Man,home charging,103,116,355
+105,Electric Vehicle Man,horsepower,69,100,291
+106,Electric Vehicle Man,hybrid,175,193,577
+107,Electric Vehicle Man,incentive,98,91,272
+108,Electric Vehicle Man,infotainment,34,22,66
+109,Electric Vehicle Man,instant torque,11,16,60
+110,Electric Vehicle Man,interior design,8,4,14
+111,Electric Vehicle Man,kwh,23,26,107
+112,Electric Vehicle Man,mileage,290,306,941
+113,Electric Vehicle Man,network,470,332,1325
+114,Electric Vehicle Man,nissan leaf,477,472,1661
+115,Electric Vehicle Man,over-the-air,16,36,98
+116,Electric Vehicle Man,plug-in hybrid,121,135,413
+117,Electric Vehicle Man,preconditioning,54,59,218
+118,Electric Vehicle Man,public charger,9,6,21
+119,Electric Vehicle Man,public charging network,61,64,176
+120,Electric Vehicle Man,range,817,731,2590
+121,Electric Vehicle Man,range anxiety,70,30,88
+122,Electric Vehicle Man,real-world range,22,35,84
+123,Electric Vehicle Man,regenerative braking,54,59,218
+124,Electric Vehicle Man,road trip,5,8,14
+125,Electric Vehicle Man,self-driving,4,6,7
+126,Electric Vehicle Man,sport mode,6,19,35
+127,Electric Vehicle Man,state of charge,60,50,206
+128,Electric Vehicle Man,supercharger,108,84,246
+129,Electric Vehicle Man,suv,134,160,419
+130,Electric Vehicle Man,tesla,579,631,2100
+131,Electric Vehicle Man,tesla supercharger,1,2,7
+132,Electric Vehicle Man,thermal management,9,6,21
+133,Electric Vehicle Man,top speed,8,4,14
+134,Electric Vehicle Man,total cost of ownership,35,69,188
+135,Electric Vehicle Man,touchscreen,56,56,165
+136,Electric Vehicle Man,warranty,218,244,721
+137,Fully Charged Show,acceleration,884,892,2310
+138,Fully Charged Show,ai,208,201,407
+139,Fully Charged Show,all-wheel drive,823,935,1949
+140,Fully Charged Show,battery,3514,4479,10190
+141,Fully Charged Show,battery cooling system,48,94,240
+142,Fully Charged Show,battery life,76,74,350
+143,Fully Charged Show,capacity,732,697,1795
+144,Fully Charged Show,carbon footprint,101,54,209
+145,Fully Charged Show,cargo space,519,635,1501
+146,Fully Charged Show,ccs,129,159,333
+147,Fully Charged Show,charger,1030,1375,2948
+148,Fully Charged Show,charging,2134,2965,6128
+149,Fully Charged Show,charging cable,143,197,391
+150,Fully Charged Show,crash test,223,324,604
+151,Fully Charged Show,crossover,505,536,1091
+152,Fully Charged Show,dc fast charging,223,324,604
+153,Fully Charged Show,drag coefficient,195,169,438
+154,Fully Charged Show,electrify america,544,535,1322
+155,Fully Charged Show,energy density,124,124,354
+156,Fully Charged Show,fast charging,495,821,1586
+157,Fully Charged Show,handling,134,178,537
+158,Fully Charged Show,hev,44,62,143
+159,Fully Charged Show,home charging,122,92,334
+160,Fully Charged Show,horsepower,1150,1449,2979
+161,Fully Charged Show,hybrid,517,557,1098
+162,Fully Charged Show,infotainment,343,414,766
+163,Fully Charged Show,mileage,258,187,434
+164,Fully Charged Show,mobile app,43,38,102
+165,Fully Charged Show,network,101,54,209
+166,Fully Charged Show,range,3094,3911,8900
+167,Fully Charged Show,range anxiety,113,130,396
+168,Fully Charged Show,regenerative braking,166,167,455
+169,Fully Charged Show,rivian,471,527,1143
+170,Fully Charged Show,road trip,53,63,143
+171,Fully Charged Show,sedan,48,94,240
+172,Fully Charged Show,self-driving,158,157,446
+173,Fully Charged Show,slow charging,143,197,391
+174,Fully Charged Show,software update,89,117,184
+175,Fully Charged Show,sport mode,333,419,917
+176,Fully Charged Show,suv,1076,1427,3100
+177,Fully Charged Show,tesla,1202,1508,3294
+178,Fully Charged Show,tesla supercharger,122,92,334
+179,Fully Charged Show,thermal management,48,94,240
+180,Fully Charged Show,top speed,758,1278,2665
+181,Fully Charged Show,torque,464,683,1482
+182,Fully Charged Show,touchscreen,401,679,1323
+183,Fully Charged Show,user interface,138,172,312
+184,Fully Charged Show,vehicle-to-grid,122,92,334
+185,Fully Charged Show,weight distribution,96,134,295
+186,Now You Know,acceleration,174,177,389
+187,Now You Know,ai,573,569,1288
+188,Now You Know,all-wheel drive,39,69,122
+189,Now You Know,autonomous driving,204,275,571
+190,Now You Know,autopilot,73,86,205
+191,Now You Know,battery,1681,1615,4292
+192,Now You Know,battery warranty,52,62,225
+193,Now You Know,bms,87,80,329
+194,Now You Know,byd,349,189,619
+195,Now You Know,capacity,702,626,1747
+196,Now You Know,carbon footprint,71,102,324
+197,Now You Know,cargo space,397,351,930
+198,Now You Know,ccs,397,351,930
+199,Now You Know,charge time,100,67,194
+200,Now You Know,charger,861,943,2385
+201,Now You Know,charging,1309,1391,3429
+202,Now You Know,charging availability,397,351,930
+203,Now You Know,charging speed,562,499,1286
+204,Now You Know,charging station,54,73,151
+205,Now You Know,crossover,23,33,48
+206,Now You Know,degradation,58,73,258
+207,Now You Know,drag coefficient,6,37,75
+208,Now You Know,electrify america,556,553,1415
+209,Now You Know,energy density,162,189,534
+210,Now You Know,fast charging,487,467,1187
+211,Now You Know,government policy,24,31,67
+212,Now You Know,home charging,100,67,194
+213,Now You Know,horsepower,102,95,367
+214,Now You Know,hybrid,121,102,302
+215,Now You Know,incentive,247,250,520
+216,Now You Know,level 2 charger,100,67,194
+217,Now You Know,lithium-ion,160,200,610
+218,Now You Know,maintenance cost,52,62,225
+219,Now You Know,mileage,182,222,478
+220,Now You Know,network,1294,1393,3181
+221,Now You Know,nissan leaf,397,351,930
+222,Now You Know,plug-in hybrid,100,67,194
+223,Now You Know,range,1337,1222,3198
+224,Now You Know,range anxiety,397,351,930
+225,Now You Know,recall,184,158,324
+226,Now You Know,rivian,945,980,2281
+227,Now You Know,road trip,522,447,1215
+228,Now You Know,self-driving,377,395,1125
+229,Now You Know,service center,264,187,609
+230,Now You Know,software update,397,351,930
+231,Now You Know,state of charge,508,492,1285
+232,Now You Know,supercharger,719,728,1746
+233,Now You Know,suv,1050,942,2428
+234,Now You Know,tax credit,19,40,99
+235,Now You Know,tesla,3815,3749,9244
+236,Now You Know,tesla supercharger,412,396,1005
+237,Now You Know,thermal management,35,41,132
+238,Now You Know,top speed,102,95,367
+239,Now You Know,torque,525,500,1257
+240,Now You Know,user interface,23,31,111
+241,Now You Know,v2g,52,62,225
+242,Now You Know,vehicle-to-grid,52,62,225
+243,Now You Know,warranty,807,738,2112

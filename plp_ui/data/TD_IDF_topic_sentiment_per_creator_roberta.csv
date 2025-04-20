@@ -1,0 +1,51 @@
+,channel,topics,Negative,Neutral,Positive
+0,Bjorn Nyland,battery,79,74,41
+1,Bjorn Nyland,charging,37,49,23
+2,Bjorn Nyland,electric,18,23,13
+3,Bjorn Nyland,ev,101,151,58
+4,Bjorn Nyland,looks,8,7,5
+5,Bjorn Nyland,price,6,15,6
+6,Bjorn Nyland,range,24,28,16
+7,Bjorn Nyland,tesla,18,23,19
+8,Bjorn Nyland,time,36,49,19
+9,Bjorn Nyland,use,36,59,19
+10,E for Electric,battery,188,183,60
+11,E for Electric,charging,282,365,82
+12,E for Electric,electric,119,180,48
+13,E for Electric,ev,882,1199,263
+14,E for Electric,looks,20,51,11
+15,E for Electric,price,84,129,26
+16,E for Electric,range,115,198,32
+17,E for Electric,tesla,792,985,256
+18,E for Electric,time,259,350,51
+19,E for Electric,use,302,382,80
+20,Electric Vehicle Man,battery,314,363,98
+21,Electric Vehicle Man,charging,320,407,90
+22,Electric Vehicle Man,electric,291,354,115
+23,Electric Vehicle Man,ev,945,1278,384
+24,Electric Vehicle Man,looks,23,33,9
+25,Electric Vehicle Man,price,153,194,34
+26,Electric Vehicle Man,range,356,424,72
+27,Electric Vehicle Man,tesla,142,222,53
+28,Electric Vehicle Man,time,356,415,91
+29,Electric Vehicle Man,use,396,651,124
+30,Fully Charged Show,battery,315,372,157
+31,Fully Charged Show,charging,141,200,58
+32,Fully Charged Show,electric,517,743,307
+33,Fully Charged Show,ev,1678,2356,946
+34,Fully Charged Show,looks,335,499,344
+35,Fully Charged Show,price,414,538,266
+36,Fully Charged Show,range,316,469,182
+37,Fully Charged Show,tesla,248,313,162
+38,Fully Charged Show,time,385,531,152
+39,Fully Charged Show,use,574,806,210
+40,Now You Know,battery,276,342,82
+41,Now You Know,charging,350,392,135
+42,Now You Know,electric,581,719,234
+43,Now You Know,ev,2209,2473,744
+44,Now You Know,looks,64,90,22
+45,Now You Know,price,280,249,66
+46,Now You Know,range,155,209,45
+47,Now You Know,tesla,1016,1280,547
+48,Now You Know,time,675,848,172
+49,Now You Know,use,919,1093,324

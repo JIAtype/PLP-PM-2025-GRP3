@@ -1,0 +1,184 @@
+channel,video,tesla,ev,electric,battery,looks,time,charging,range,price,use
+Fully Charged Show,1,-1,0,0,1,0,-2,0,0,1,0
+Fully Charged Show,2,0,1,-1,-1,0,0,0,0,-1,-1
+Fully Charged Show,3,-2,-1,1,0,-1,-2,0,1,0,-1
+Fully Charged Show,4,-3,0,0,-2,0,-4,-1,0,0,-1
+Fully Charged Show,5,1,1,0,0,-1,0,0,3,-3,-1
+Fully Charged Show,6,-2,0,0,0,0,0,0,0,0,0
+Fully Charged Show,7,0,0,0,0,0,0,0,0,1,-2
+Fully Charged Show,8,0,-1,2,0,0,-1,0,0,0,0
+Fully Charged Show,9,0,0,0,1,0,0,0,0,2,0
+Fully Charged Show,10,-3,0,0,0,-1,-2,0,0,0,0
+Fully Charged Show,11,-1,0,0,0,-1,0,0,0,0,0
+Fully Charged Show,12,0,1,0,-1,-2,0,0,0,2,0
+Fully Charged Show,13,-1,0,0,0,-1,0,0,0,1,0
+Fully Charged Show,14,0,0,1,0,1,-1,0,0,1,-1
+Fully Charged Show,15,1,0,0,0,0,0,0,0,0,0
+Fully Charged Show,16,0,0,0,0,-1,-2,0,0,1,0
+Fully Charged Show,17,2,0,0,0,1,0,0,-1,0,0
+Fully Charged Show,18,0,0,0,-2,0,-2,0,-1,0,0
+Fully Charged Show,19,0,0,0,0,0,0,0,0,0,0
+Fully Charged Show,20,0,0,-2,-2,1,-1,0,0,-1,0
+Fully Charged Show,21,0,0,0,-1,0,1,0,-2,1,-1
+Fully Charged Show,22,0,0,0,0,0,0,0,0,0,0
+Fully Charged Show,23,0,-1,0,0,1,-1,0,-1,0,0
+Fully Charged Show,24,1,0,0,0,0,-4,0,-1,1,0
+Fully Charged Show,25,1,0,0,0,0,1,0,0,0,0
+Fully Charged Show,26,0,0,0,-1,0,0,0,0,1,0
+Fully Charged Show,27,0,0,0,-3,0,0,0,0,-2,-1
+Fully Charged Show,28,0,0,0,-5,0,0,0,0,1,-2
+Fully Charged Show,29,1,0,0,0,0,0,0,0,0,0
+Fully Charged Show,30,0,0,0,1,0,0,0,-1,-1,1
+Fully Charged Show,31,0,0,0,0,0,0,0,0,0,0
+Fully Charged Show,32,0,0,-1,-1,0,-2,0,-1,0,-1
+Fully Charged Show,33,-1,0,0,0,0,-2,0,-1,0,0
+Fully Charged Show,34,-2,0,-1,0,1,-1,0,2,2,0
+Fully Charged Show,35,0,0,0,-1,0,0,0,0,2,0
+Fully Charged Show,36,1,0,0,0,0,0,0,0,0,0
+Fully Charged Show,37,0,0,0,1,0,0,0,0,-1,-2
+Bjorn Nyland,1,1,0,0,-1,0,0,0,-1,0,0
+Bjorn Nyland,2,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,3,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,4,0,0,0,-1,0,1,0,0,0,0
+Bjorn Nyland,5,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,6,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,7,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,8,0,0,0,-1,0,0,0,0,0,0
+Bjorn Nyland,9,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,10,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,11,0,0,0,-2,0,0,0,0,0,0
+Bjorn Nyland,12,0,0,0,0,0,-1,0,0,0,0
+Bjorn Nyland,13,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,14,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,15,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,16,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,17,1,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,18,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,19,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,20,0,0,0,0,0,0,0,0,0,-1
+Bjorn Nyland,21,1,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,22,0,0,0,-4,0,0,0,0,0,0
+Bjorn Nyland,23,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,24,1,0,0,-3,0,0,0,0,0,0
+Bjorn Nyland,25,0,0,0,0,0,0,0,0,0,0
+Bjorn Nyland,26,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,1,0,0,0,0,0,0,0,0,1,0
+Electric Vehicle Man,2,0,0,0,0,0,0,0,1,0,0
+Electric Vehicle Man,3,-2,0,0,-2,0,0,0,0,0,0
+Electric Vehicle Man,4,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,5,0,0,-1,-4,0,-5,0,-1,0,0
+Electric Vehicle Man,6,-1,0,0,0,0,-1,0,0,0,0
+Electric Vehicle Man,7,-1,1,1,0,0,1,0,0,0,0
+Electric Vehicle Man,8,-3,-1,0,0,0,0,0,0,0,1
+Electric Vehicle Man,9,-2,0,0,1,0,0,0,-1,0,-1
+Electric Vehicle Man,10,1,0,0,0,0,1,0,0,0,0
+Electric Vehicle Man,11,-2,0,-2,-6,0,-9,-1,-15,0,-1
+Electric Vehicle Man,12,0,0,-1,0,0,1,0,-2,1,0
+Electric Vehicle Man,13,0,0,0,-1,0,-2,0,0,0,0
+Electric Vehicle Man,14,0,0,0,-1,0,0,0,0,0,0
+Electric Vehicle Man,15,1,0,1,-1,0,0,0,0,0,0
+Electric Vehicle Man,16,1,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,17,0,0,0,1,0,0,0,0,0,0
+Electric Vehicle Man,18,0,0,0,-2,0,0,0,0,0,0
+Electric Vehicle Man,19,1,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,20,0,0,-1,0,0,0,0,0,0,0
+Electric Vehicle Man,21,-1,0,-1,-4,0,0,0,-3,0,-1
+Electric Vehicle Man,22,0,0,0,1,0,0,0,0,0,0
+Electric Vehicle Man,23,0,-1,1,-1,0,-2,0,-1,-1,-1
+Electric Vehicle Man,24,0,0,0,-1,0,0,0,0,0,0
+Electric Vehicle Man,25,0,-1,-1,0,0,-3,0,-1,0,0
+Electric Vehicle Man,26,-2,0,0,0,0,0,0,0,-1,-1
+Electric Vehicle Man,27,-1,0,0,0,0,1,0,0,0,0
+Electric Vehicle Man,28,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,29,-1,-1,0,-3,0,-2,0,-1,0,-2
+Electric Vehicle Man,30,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,31,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,32,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,33,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,34,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,35,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,36,0,0,0,0,0,0,0,0,0,0
+Electric Vehicle Man,37,0,0,0,0,0,0,0,0,0,0
+Now You Know,1,-1,0,0,0,0,0,0,1,-1,0
+Now You Know,2,-15,-1,-2,-3,0,-4,1,-3,-1,-5
+Now You Know,3,1,0,0,-1,0,0,0,-1,0,0
+Now You Know,4,0,0,0,0,0,-1,0,0,-1,0
+Now You Know,5,0,0,0,0,0,0,0,0,0,1
+Now You Know,6,0,0,0,0,0,0,0,0,0,0
+Now You Know,7,0,0,0,0,0,0,0,0,0,0
+Now You Know,8,2,0,0,1,0,0,0,0,0,0
+Now You Know,9,0,0,0,0,0,0,0,0,0,0
+Now You Know,10,0,0,0,0,0,0,0,0,0,0
+Now You Know,11,-2,0,0,0,0,-1,0,0,0,0
+Now You Know,12,0,0,0,0,0,-1,0,0,0,0
+Now You Know,13,0,0,0,0,0,0,0,0,0,0
+Now You Know,14,0,0,0,0,0,0,0,0,0,0
+Now You Know,15,0,0,0,0,0,0,0,0,0,-1
+Now You Know,16,-3,0,0,-2,0,-3,0,0,0,-2
+Now You Know,17,-1,0,-1,-1,0,-2,0,0,0,0
+Now You Know,18,-5,0,0,0,0,-1,0,0,0,0
+Now You Know,19,-1,0,-1,-4,0,-1,0,0,0,0
+Now You Know,20,0,0,0,0,0,0,0,0,0,0
+Now You Know,21,-1,0,-1,0,0,0,0,0,0,1
+Now You Know,22,-3,0,0,0,0,-1,0,0,0,0
+Now You Know,23,0,0,0,0,0,-2,0,0,0,-1
+Now You Know,24,-5,-2,-3,-6,-1,-4,0,0,-3,-2
+Now You Know,25,-1,0,1,0,-1,-1,0,0,-1,0
+Now You Know,26,0,0,0,0,0,0,0,0,0,0
+Now You Know,27,-34,-1,-1,-2,0,-4,0,0,0,0
+Now You Know,28,-1,0,0,0,0,-1,0,0,0,0
+Now You Know,29,1,0,0,0,0,0,0,0,0,0
+Now You Know,30,-4,0,0,0,0,0,0,0,0,0
+Now You Know,31,0,0,0,0,0,0,0,0,0,0
+Now You Know,32,-2,0,0,0,0,-2,0,0,0,0
+Now You Know,33,0,0,0,0,0,0,0,0,0,0
+Now You Know,34,-4,0,0,0,0,-1,0,0,0,0
+Now You Know,35,-1,0,0,0,0,-2,0,0,0,0
+Now You Know,36,0,0,0,0,0,0,0,0,0,0
+Now You Know,37,0,0,0,0,0,0,0,0,0,0
+Now You Know,38,0,0,0,0,0,1,0,0,0,0
+Now You Know,39,0,0,0,0,0,-1,0,0,0,-1
+Now You Know,40,-1,0,0,0,0,0,0,0,0,0
+Now You Know,41,0,0,0,0,0,0,0,0,1,-1
+Now You Know,42,0,0,0,0,0,1,0,0,0,0
+Now You Know,43,-4,0,-1,0,0,0,0,0,1,0
+Now You Know,44,0,0,0,0,0,0,0,0,0,0
+Now You Know,45,-1,0,0,0,0,0,0,0,0,0
+Now You Know,46,1,0,-1,2,-1,0,0,0,-1,-1
+Now You Know,47,-3,0,-1,0,0,0,0,0,-1,-1
+Now You Know,48,0,0,0,0,0,0,0,0,0,1
+Now You Know,49,0,0,1,0,0,0,0,0,0,0
+Now You Know,50,4,0,0,0,0,0,0,0,0,0
+Now You Know,51,-1,0,0,0,0,0,0,0,0,0
+Now You Know,52,-2,0,0,0,0,-1,0,0,0,0
+Now You Know,53,-1,0,0,0,0,0,0,0,0,0
+Now You Know,54,1,0,0,0,0,0,0,0,0,0
+Now You Know,55,0,0,0,0,0,0,0,0,0,0
+Now You Know,56,-2,0,0,0,0,0,0,0,0,0
+E for Electric,1,-2,0,0,0,0,0,0,0,0,0
+E for Electric,2,0,-1,0,0,0,0,0,0,0,0
+E for Electric,3,-3,0,0,0,0,-1,0,0,0,0
+E for Electric,4,-1,0,0,0,0,0,0,0,0,0
+E for Electric,5,-2,0,0,0,0,0,0,1,0,0
+E for Electric,6,-1,0,0,0,0,0,0,0,0,0
+E for Electric,7,-3,0,0,1,0,0,0,-1,0,0
+E for Electric,8,-4,0,0,0,0,0,0,0,0,0
+E for Electric,9,1,0,0,0,0,0,0,0,0,0
+E for Electric,10,-3,0,0,0,0,0,0,0,0,0
+E for Electric,11,0,0,0,-1,0,0,0,0,0,0
+E for Electric,12,-4,0,0,0,0,0,0,0,0,-1
+E for Electric,13,-1,0,0,0,0,0,0,0,0,0
+E for Electric,14,-22,-2,0,0,0,0,0,0,0,0
+E for Electric,15,-4,0,0,0,0,-4,0,0,0,0
+E for Electric,16,-7,0,0,0,0,-5,0,0,0,0
+E for Electric,17,-7,0,0,0,0,0,0,0,0,-1
+E for Electric,18,-8,0,0,0,0,0,0,0,0,-2
+E for Electric,19,-22,0,1,-2,-1,0,0,-2,1,0
+E for Electric,20,-1,0,0,-1,0,1,0,0,0,0
+E for Electric,21,-1,0,0,-1,0,0,0,0,0,0
+E for Electric,22,-10,0,0,0,0,-1,1,-1,0,0
+E for Electric,23,0,0,0,0,0,0,0,0,0,0
+E for Electric,24,-1,1,0,-5,0,0,0,-1,0,0
+E for Electric,25,-1,0,0,0,0,0,0,0,1,0
+E for Electric,26,0,0,0,0,0,0,0,0,0,0
+E for Electric,27,0,0,-1,0,0,0,0,0,0,0
