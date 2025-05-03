@@ -1,6 +1,6 @@
 [submodule "plp_ui"]
-	path = plp_ui
+	path = UserInterface
 	url = https://github.com/JIAtype/plp_ui.git
 [submodule "plp_spam"]
-	path = plp_spam
+	path = SpamCommentDetection
 	url = https://github.com/JIAtype/SpamVideoCommentDetection.git
