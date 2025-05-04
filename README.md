@@ -1,4 +1,4 @@
-# PLP-PM-2025-GRP3-XSELL
+# PLP-PM-2025-GRP3
 
 Group Name:
 Group 3
